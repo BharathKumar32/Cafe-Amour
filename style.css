@@ -1,4 +1,7 @@
     
+   body{
+    box-sizing: border-box;
+   }
     header {
       position: fixed;
       top: 0;
@@ -10,7 +13,7 @@
       align-items: center;
       padding: 15px 15px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      z-index: 1000;
+      z-index: 100;
     }
     header h1 {
       font-size: 20px;
@@ -44,7 +47,7 @@
           text-align: center; 
           padding-bottom: 100px;
           padding-top: 20px;
-         }
+            }
          .rom{
             color: red;
          }
@@ -88,7 +91,7 @@
       text-align: center;
       color: white;
       padding: 0 20px;
-      width: 100vw;
+      width: 97.3vw;
       
     }
     .hero h2 {
@@ -122,7 +125,7 @@
       background-image: url("https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/coffee-item-10.jpg");
       height:100vh;
       background-size: cover;
-      width: 100vw;
+      width: 93vw;
     }
     
 .pad{
